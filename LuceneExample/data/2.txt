@@ -1,0 +1,2 @@
+Now if everything is fine, then you can proceed to setup your Lucene framework. Following are the simple steps to download and install the framework on your machine.
+

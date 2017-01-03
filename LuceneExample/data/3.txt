@@ -1,0 +1,2 @@
+Once you are done with creating source, creating the raw data, data directory and index directory, you are ready for this step which is compiling and running your program. To do this, Keep LuceneTester.Java file tab active and use either Run option available in the Eclipse IDE or use Ctrl + F11 to compile and run your LuceneTester application. If everything is fine with your application, this will print the following message in Eclipse IDE's console:
+

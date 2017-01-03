@@ -1,0 +1,2 @@
+So let us proceed to write a simple Search Application which will print number of search result found. We'll also see the list of indexes created during this process.
+
